@@ -3,7 +3,7 @@ Diese Seite wird von der Homepage AG Bearbeitet
 
 
 
-Komische Abkuerzungen:
+##Komische Abkuerzungen
 
 Abkuerzung|Bedeutung
 ----------|---------
@@ -12,3 +12,13 @@ ER        |Enrichment
 WPU       |Wahl-Pflicht-Untericht
 FRZ       |Franzoesisch
 
+
+
+##Browser Unterstuetzung
+
+Browser |Ja/Nein
+--------|-------
+IE      |Nein(Sehr Buggy)
+Safari  |Nein(Teile Fehlen)
+Chrome  |Ja
+Firefox |Ja
