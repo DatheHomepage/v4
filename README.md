@@ -9,3 +9,6 @@ Abkuerzung|Bedeutung
 ----------|---------
 FB        |Fachbereich
 ER        |Enrichment
+WPU       |Wahl-Pflicht-Untericht
+FRZ       |Franzoesisch
+
