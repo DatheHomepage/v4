@@ -22,3 +22,4 @@ IE      |Nein(Sehr Buggy)
 Safari  |Nein(Teile Fehlen)
 Chrome  |Ja
 Firefox |Ja
+Opera   |???
