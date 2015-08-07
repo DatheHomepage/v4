@@ -3,7 +3,7 @@ Diese Seite wird von der Homepage AG Bearbeitet
 
 
 
-##Komische Abkuerzungen
+##Komische Abkürzungen
 
 Abkürzung|Bedeutung
 ----------|---------
