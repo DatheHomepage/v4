@@ -5,16 +5,16 @@ Diese Seite wird von der Homepage AG Bearbeitet
 
 ##Komische Abkuerzungen
 
-Abkuerzung|Bedeutung
+Abkürzung|Bedeutung
 ----------|---------
 FB        |Fachbereich
 ER        |Enrichment
 WPU       |Wahl-Pflicht-Untericht
-FRZ       |Franzoesisch
+FRZ       |Französisch
 
 
 
-##Browser Unterstuetzung
+##Browser Unterstützung
 
 Browser |Ja/Nein
 --------|-------
